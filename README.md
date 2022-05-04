@@ -8,13 +8,13 @@
 - 🌱 최근에 REACT를 공부했습니다!
 
 <h4> Skills </h4>
-- HTML5 / CSS3 / JavaScript
-- Jquery
-- REACT
-- Python
-- Abobe XD / Illustrator / Photoshop
+- HTML5 / CSS3 / JavaScript </n>
+- Jquery </n>
+- REACT </n>
+- Python </n>
+- Abobe XD / Illustrator / Photoshop </n>
 
 <h4> Personal Infomation </h4>
-- 🐶 4살 강아지와 함께 살고 있습니다.
-- 🏃‍♀️ 취미는 달리기! 일주일에 3번정도 30분씩 4km를 달립니다.
-- 👩‍🚀 고등학교 졸업 후 여행을 다녀왔습니다. 일본 3개월! 태국 3개월! 캐나다 6개월!
+- 🐶 4살 강아지와 함께 살고 있습니다. </n>
+- 🏃‍♀️ 취미는 달리기! 일주일에 3번정도 30분씩 4km를 달립니다. </n>
+- 👩‍🚀 고등학교 졸업 후 여행을 다녀왔습니다. 일본 3개월! 태국 3개월! 캐나다 6개월! </n>
