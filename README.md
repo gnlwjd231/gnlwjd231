@@ -8,11 +8,11 @@
 - 🌱 최근에 REACT를 공부했습니다!
 
 <h4> Skills </h4>
-- HTML5 / CSS3 / JavaScript </n>
-- Jquery </n>
-- REACT </n>
-- Python </n>
-- Abobe XD / Illustrator / Photoshop </n>
+- HTML5 / CSS3 / JavaScript 
+- Jquery 
+- REACT 
+- Python 
+- Abobe XD / Illustrator / Photoshop 
 
 <h4> Personal Infomation </h4>
 - 🐶 4살 강아지와 함께 살고 있습니다. </n>
