@@ -3,10 +3,6 @@
 
 ### Hi there 👋
 
-**gnlwjd231/gnlwjd231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on (주)사람과기술
-- 🌱 I’m currently learning REACT!
-
+- 🔭 창원시 (주)사람과기술 에서 디자인 / 퍼블리싱 업무를 담당중 입니다.
+- 프론트엔드 개발자가 되기 위해 노력하고 있습니다.
+- 🌱 최근에 REACT를 공부했습니다!
