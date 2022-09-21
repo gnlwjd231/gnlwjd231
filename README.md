@@ -11,17 +11,17 @@
 <br/>
 
 <h4> Skills </h4>
-##### HTML5 / CSS3 / JavaScript 
+<h5> HTML5 / CSS3 / JavaScript <h5>
 <br/>
   -- 웹 표준을 준수합니다.
   <br/>
   -- 반응형 웹페이지를 제작할 수 있습니다.
   <br/>
-##### Jquery
+<h5> Jquery <h5>
 <br/>
-##### REACT
+<h5> REACT <h5>
 <br/>
-##### Python 
+<h5> Python <h5>
 <br/>
   -- 처음 개발을 시작했을 때 선택한 언어입니다.
   <br/>
