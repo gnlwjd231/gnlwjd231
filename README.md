@@ -12,22 +12,17 @@
 
 <h4> Skills </h4>
 <h5> HTML5 / CSS3 / JavaScript <h5>
-<br/>
-  -- 웹 표준을 준수합니다.
-  <br/>
-  -- 반응형 웹페이지를 제작할 수 있습니다.
-  <br/>
+  - 웹 표준을 준수합니다.<br/>
+  - 반응형 웹페이지를 제작할 수 있습니다.<br/>
 <h5> Jquery <h5>
-<br/>
 <h5> REACT <h5>
-<br/>
 <h5> Python <h5>
-<br/>
-  -- 처음 개발을 시작했을 때 선택한 언어입니다.
+  - 처음 개발을 시작했을 때 선택한 언어입니다.
   <br/>
-  -- 혼자 계정 가계부 프로그램을 제작했습니다.
+  - 혼자 계정 가계부 프로그램을 제작했습니다.
   <br/>
-- Abobe XD / Illustrator / Photoshop 
+<h5> Design Skill <h5>
+  - Abobe XD / Illustrator / Photoshop 
 <br/>
 
 <h4> wish </h4>
