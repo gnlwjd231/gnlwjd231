@@ -1,16 +1,20 @@
-<h2 align="center">👋 Hello! I'm HwiJeing.</h2>
-<h3 align="center">👋 안녕하세요! 휘정입니다.</h3>
+<h2 align="center">Hello! I'm Heizle.</h2>
+<h3 align="center">안녕하세요! FE개발자 박휘정입니다.</h3>
 
 ### Hi there 👋
 
-- (주)펫트너 에서 프론트엔드 개발을 담당중 입니다.
-- 이전 직장에서 퍼블리셔 겸 디자이너로 일했습니다.
+ - (주)펫트너의 FE개발자 입니다.
+
 <br/>
 
 <h4> Skills </h4>
 <h5> HTML5 / CSS3 / JavaScript <h5>
   - 웹 표준을 준수합니다.<br/>
   - 반응형 웹페이지를 제작할 수 있습니다.<br/>
+  - 시맨틱 태그를 통해 SEO 작업을 할 수 있습니다.<br/>
+  
+<h5> SCSS <h5>
+  - 디자인 시스템 구축 경험이 있습니다.<br/>
 <h5> Jquery <h5>
 <h5> REACT <h5>
 <h5> Python <h5>
