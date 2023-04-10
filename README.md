@@ -21,7 +21,7 @@
 
 <br/>
 
-### FE Skills
+### Dev Skills
  - HTML5 / CSS3 / JavaScript
  - SCSS
  - Jquery
